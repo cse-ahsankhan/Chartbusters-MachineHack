@@ -7,10 +7,10 @@ I saw alot of possible number of scenarios to solve this problem but was plannin
 
 Technique used:
 
-> Recursive Feature selection
-> Datetime manipulation
-> Alpha numeric conversions.
-> That's it!!!!!
+> Recursive Feature selection <br>
+> Datetime manipulation <br>
+> Alpha numeric conversions. <br>
+> That's it!!!!! <br>
 
 Neural Network design:
 Used Keras sequential model inorder to create a three layered neural network (One hidden, One input and One output).
