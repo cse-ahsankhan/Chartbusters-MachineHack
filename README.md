@@ -13,6 +13,7 @@ Technique used:
 > That's it!!!!! <br>
 
 Neural Network design:
+
 Used Keras sequential model inorder to create a three layered neural network (One hidden, One input and One output).
 
 For preprocessing the data we simply use the regular Pandas method and then convert the Pandas dataframe into the Tensorflow dataframe (.h5).
